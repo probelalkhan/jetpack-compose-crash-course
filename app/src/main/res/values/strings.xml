@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Compose Introduction</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia, lectus dictum egestas tristique</string>
+</resources>
